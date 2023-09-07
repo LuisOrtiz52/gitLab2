@@ -1,6 +1,6 @@
-#Everything about flight sims
+# Everything about flight sims
 asdf hasd;flk q;eowidkfehq
-##second heading
+## second heading
 sdfwepqwlkjga asdgfi;qr qir
 
 Some basic Git commands are:
